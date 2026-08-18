@@ -1,0 +1,14 @@
+{
+	"id": "joker_abra",
+	"name":"AbraPlugin",
+	"version": "0.0.1",
+	"input": [
+		{"selector":"email"}
+	],
+	"paid": false,
+	"use_third_party_service": false,
+	"unlimited": true,
+	"response_time": 1,
+	"recovery_time": 0,
+	"profile_template": null
+}
