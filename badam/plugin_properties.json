@@ -1,0 +1,16 @@
+{
+  "id": "badam",
+  "name": "badam",
+  "version": 1,
+  "input": [
+        {"selector": "email"}
+  ],
+  "paid": false,
+  "use_third_party_service": false,
+  "unlimited": true,
+  "response_time": 5,
+  "recovery_time": 0,
+  "profile_template": {
+    "proxy": ""
+  }
+}
